@@ -1,0 +1,2 @@
+chmod +x scripts/init_rpo_repo.sh
+./scripts/init_rpo_repo.sh
